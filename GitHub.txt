@@ -1,5 +1,6 @@
 GitHub
 Aneta Wieczorke
+Arkadiusz Pyras
 Polecenia:
 1. Zaloguj się do GitHub
 - Dołącz współpracownika
